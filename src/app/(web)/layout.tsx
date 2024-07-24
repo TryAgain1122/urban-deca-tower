@@ -16,7 +16,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: 'Urban deca tower',
+  title: 'Hotel Management App',
   description: 'Discover the best hotel rooms',
 };
 
